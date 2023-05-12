@@ -5,6 +5,7 @@
         public int Health;
         public int Energy;
         public string Name;
+      
 
         internal void TakeDamage(int damage)
         {

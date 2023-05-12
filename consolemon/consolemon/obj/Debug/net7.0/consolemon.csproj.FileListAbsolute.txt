@@ -1,0 +1,15 @@
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\consolemon\consolemon\bin\Debug\net7.0\consolemon.exe
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\consolemon\consolemon\bin\Debug\net7.0\consolemon.deps.json
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\consolemon\consolemon\bin\Debug\net7.0\consolemon.runtimeconfig.json
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\consolemon\consolemon\bin\Debug\net7.0\consolemon.dll
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\consolemon\consolemon\bin\Debug\net7.0\consolemon.pdb
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\consolemon\consolemon\obj\Debug\net7.0\consolemon.csproj.AssemblyReference.cache
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\consolemon\consolemon\obj\Debug\net7.0\consolemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\consolemon\consolemon\obj\Debug\net7.0\consolemon.AssemblyInfoInputs.cache
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\consolemon\consolemon\obj\Debug\net7.0\consolemon.AssemblyInfo.cs
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\consolemon\consolemon\obj\Debug\net7.0\consolemon.csproj.CoreCompileInputs.cache
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\consolemon\consolemon\obj\Debug\net7.0\consolemon.dll
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\consolemon\consolemon\obj\Debug\net7.0\refint\consolemon.dll
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\consolemon\consolemon\obj\Debug\net7.0\consolemon.pdb
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\consolemon\consolemon\obj\Debug\net7.0\consolemon.genruntimeconfig.cache
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\consolemon\consolemon\obj\Debug\net7.0\ref\consolemon.dll

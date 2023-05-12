@@ -1,27 +1,25 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using static System.Net.Mime.MediaTypeNames;
 
 namespace consolemon
 {
     internal class Skill
     {
-        int Damage;
-        int Energycost;
-        string Name;
-        public Skill(int damage, int engerycost, string name)
+        public int damage;
+        public int energyCost;
+        public string name;
+
+        public Skill(int damage, int energyCost, string name)
         {
-            this.Damage = damage;
-            this.Energycost = engerycost;
-            this.Name = name;
-        }
-        internal void Useon(string target, string caster)
-        {
-            //mon.DepleteEnergy();
+            this.damage = damage;
+            this.energyCost = energyCost;
+            this.name = name;
         }
 
+        internal void UseOn(ConsoleMon target, ConsoleMon caster)
+        {
+            caster.DepleteEnergy(energyCost);
+            target.TakeDamage(damage);
+        }
     }
 }
+
