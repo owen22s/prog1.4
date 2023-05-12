@@ -2,14 +2,14 @@
 {
     internal class ConsoleMon
     {
-        public int Health;
+        public int health;
         public int Energy;
         public string Name;
       
 
         internal void TakeDamage(int damage)
         {
-            Health -= damage;
+            health -= damage;
         }
 
         internal void DepleteEnergy(int energy)
