@@ -5,7 +5,8 @@
         public int health;
         public int Energy;
         public string Name;
-      
+        internal Element weakness;
+
 
         internal void TakeDamage(int damage)
         {

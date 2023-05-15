@@ -14,11 +14,25 @@ namespace consolemon
             this.energyCost = energyCost;
             this.name = name;
         }
+        internal Element element;
 
         internal void UseOn(ConsoleMon target, ConsoleMon caster)
         {
             caster.DepleteEnergy(energyCost);
+
+            if (target.weakness == element)
+            {
+                int reducedDamage = damage / 2;
+                target.TakeDamage(reducedDamage);
+            }
+            
             target.TakeDamage(damage);
+            
+        }
+
+        internal void UseOn(ConsoleMon targetMon, ConsoleMon casterMon, object element)
+        {
+            throw new NotImplementedException();
         }
     }
 }
