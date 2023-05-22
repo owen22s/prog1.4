@@ -16,17 +16,13 @@ namespace consolemon
             Console.WriteLine("TestSkillFunctions");
             ConsoleMon casterMon = new ConsoleMon();
             ConsoleMon targetMon = new ConsoleMon();
-            Skill skill = new Skill()
-            {
-                damage = 100,
-                energyCost = 20,
-                name = "SomeSkill"
-            };
+            Skill skill = new Skill(100, 20, "SomeSkill");
             skill.UseOn(targetMon, casterMon);
 
-            Console.WriteLine(targetMon.health == -150);
+            Console.WriteLine(targetMon.health == -50);
             Console.WriteLine(casterMon.energy == -20);
         }
+
 
 
 

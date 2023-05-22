@@ -3,7 +3,7 @@
     internal class ConsoleMon
     {
         public int health;
-        public int Energy;
+        public int energy;
         public string Name;
         internal Element weakness;
 
@@ -15,7 +15,7 @@
 
         internal void DepleteEnergy(int energy)
         {
-            Energy -= energy;
+            energy -= energy;
         }
     }
 }

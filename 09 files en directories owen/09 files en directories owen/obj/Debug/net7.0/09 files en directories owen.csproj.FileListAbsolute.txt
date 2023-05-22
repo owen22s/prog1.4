@@ -1,0 +1,15 @@
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\09 files en directories owen\09 files en directories owen\bin\Debug\net7.0\09 files en directories owen.exe
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\09 files en directories owen\09 files en directories owen\bin\Debug\net7.0\09 files en directories owen.deps.json
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\09 files en directories owen\09 files en directories owen\bin\Debug\net7.0\09 files en directories owen.runtimeconfig.json
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\09 files en directories owen\09 files en directories owen\bin\Debug\net7.0\09 files en directories owen.dll
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\09 files en directories owen\09 files en directories owen\bin\Debug\net7.0\09 files en directories owen.pdb
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\09 files en directories owen\09 files en directories owen\obj\Debug\net7.0\09 files en directories owen.csproj.AssemblyReference.cache
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\09 files en directories owen\09 files en directories owen\obj\Debug\net7.0\09 files en directories owen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\09 files en directories owen\09 files en directories owen\obj\Debug\net7.0\09 files en directories owen.AssemblyInfoInputs.cache
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\09 files en directories owen\09 files en directories owen\obj\Debug\net7.0\09 files en directories owen.AssemblyInfo.cs
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\09 files en directories owen\09 files en directories owen\obj\Debug\net7.0\09 files en directories owen.csproj.CoreCompileInputs.cache
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\09 files en directories owen\09 files en directories owen\obj\Debug\net7.0\09 files en directories owen.dll
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\09 files en directories owen\09 files en directories owen\obj\Debug\net7.0\refint\09 files en directories owen.dll
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\09 files en directories owen\09 files en directories owen\obj\Debug\net7.0\09 files en directories owen.pdb
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\09 files en directories owen\09 files en directories owen\obj\Debug\net7.0\09 files en directories owen.genruntimeconfig.cache
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\09 files en directories owen\09 files en directories owen\obj\Debug\net7.0\ref\09 files en directories owen.dll
