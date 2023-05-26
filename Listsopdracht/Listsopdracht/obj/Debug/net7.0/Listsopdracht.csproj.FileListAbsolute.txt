@@ -1,0 +1,15 @@
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\Listsopdracht\Listsopdracht\bin\Debug\net7.0\Listsopdracht.exe
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\Listsopdracht\Listsopdracht\bin\Debug\net7.0\Listsopdracht.deps.json
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\Listsopdracht\Listsopdracht\bin\Debug\net7.0\Listsopdracht.runtimeconfig.json
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\Listsopdracht\Listsopdracht\bin\Debug\net7.0\Listsopdracht.dll
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\Listsopdracht\Listsopdracht\bin\Debug\net7.0\Listsopdracht.pdb
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\Listsopdracht\Listsopdracht\obj\Debug\net7.0\Listsopdracht.csproj.AssemblyReference.cache
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\Listsopdracht\Listsopdracht\obj\Debug\net7.0\Listsopdracht.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\Listsopdracht\Listsopdracht\obj\Debug\net7.0\Listsopdracht.AssemblyInfoInputs.cache
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\Listsopdracht\Listsopdracht\obj\Debug\net7.0\Listsopdracht.AssemblyInfo.cs
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\Listsopdracht\Listsopdracht\obj\Debug\net7.0\Listsopdracht.csproj.CoreCompileInputs.cache
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\Listsopdracht\Listsopdracht\obj\Debug\net7.0\Listsopdracht.dll
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\Listsopdracht\Listsopdracht\obj\Debug\net7.0\refint\Listsopdracht.dll
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\Listsopdracht\Listsopdracht\obj\Debug\net7.0\Listsopdracht.pdb
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\Listsopdracht\Listsopdracht\obj\Debug\net7.0\Listsopdracht.genruntimeconfig.cache
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\Listsopdracht\Listsopdracht\obj\Debug\net7.0\ref\Listsopdracht.dll

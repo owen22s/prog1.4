@@ -8,13 +8,13 @@ namespace consolemon
         public int energyCost;
         public string name;
 
+        internal Element element;
         public Skill(int damage, int energyCost, string name)
         {
             this.damage = damage;
             this.energyCost = energyCost;
             this.name = name;
         }
-        internal Element element;
 
         internal void UseOn(ConsoleMon target, ConsoleMon caster)
         {
@@ -30,10 +30,6 @@ namespace consolemon
             
         }
 
-        internal void UseOn(ConsoleMon targetMon, ConsoleMon casterMon, object element)
-        {
-            throw new NotImplementedException();
-        }
     }
 }
 

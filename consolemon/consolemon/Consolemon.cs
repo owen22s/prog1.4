@@ -6,6 +6,7 @@
         public int energy;
         public string Name;
         internal Element weakness;
+        private List<Skill> skills;
 
 
         internal void TakeDamage(int damage)

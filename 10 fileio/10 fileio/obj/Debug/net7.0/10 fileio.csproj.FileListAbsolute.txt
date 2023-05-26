@@ -1,0 +1,16 @@
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\10 fileio\10 fileio\bin\Debug\net7.0\text.txt
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\10 fileio\10 fileio\bin\Debug\net7.0\10 fileio.exe
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\10 fileio\10 fileio\bin\Debug\net7.0\10 fileio.deps.json
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\10 fileio\10 fileio\bin\Debug\net7.0\10 fileio.runtimeconfig.json
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\10 fileio\10 fileio\bin\Debug\net7.0\10 fileio.dll
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\10 fileio\10 fileio\bin\Debug\net7.0\10 fileio.pdb
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\10 fileio\10 fileio\obj\Debug\net7.0\10 fileio.csproj.AssemblyReference.cache
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\10 fileio\10 fileio\obj\Debug\net7.0\10 fileio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\10 fileio\10 fileio\obj\Debug\net7.0\10 fileio.AssemblyInfoInputs.cache
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\10 fileio\10 fileio\obj\Debug\net7.0\10 fileio.AssemblyInfo.cs
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\10 fileio\10 fileio\obj\Debug\net7.0\10 fileio.csproj.CoreCompileInputs.cache
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\10 fileio\10 fileio\obj\Debug\net7.0\10 fileio.dll
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\10 fileio\10 fileio\obj\Debug\net7.0\refint\10 fileio.dll
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\10 fileio\10 fileio\obj\Debug\net7.0\10 fileio.pdb
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\10 fileio\10 fileio\obj\Debug\net7.0\10 fileio.genruntimeconfig.cache
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\10 fileio\10 fileio\obj\Debug\net7.0\ref\10 fileio.dll
