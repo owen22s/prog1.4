@@ -1,0 +1,35 @@
+EnterMon,health,100,energy,20,weakness,Fire|Skills;KeyPress,damage,5,energyCost,10,element,Fire;Default,damage,1,energyCost,0,element,Physical
+NewLineMon,health,90,energy,15,weakness,Water|Skills;Clear,damage,5,energyCost,10,element,Earth;Default,damage,1,energyCost,0,element,Physical
+DeleteMon,health,90,energy,25,weakness,Earth|Skills;Erase,damage,4,energyCost,2,element,Wind;Default,damage,1,energyCost,0,element,Physical
+[
+  {
+    "health": 100,
+    "energy": 10,
+    "name": "EnterMon",
+    "weakness": 1,
+    "skills": [
+      {
+        "damage": 5,
+        "energyCost": 10,
+        "name": "KeyPress",
+        "element": 2
+      }
+    ]
+  },
+
+  {
+    "health": 90,
+    "energy": 25,
+    "name": "NewLineMon",
+    "weakness": 3,
+    "skills": [
+      {
+        "damage": 5,
+        "energyCost": 10,
+        "name": "Erase",
+        "element": 4
+      }
+    ]
+  }
+]
+
