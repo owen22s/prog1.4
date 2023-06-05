@@ -9,7 +9,9 @@ namespace consolemon
             Console.WriteLine("Hello, World!");
             TestSkillFunctions();
             TestConsoleMonFunctions();
+            TestFactoryFunctions();
         }
+
 
         static void TestSkillFunctions()
         {
@@ -23,6 +25,7 @@ namespace consolemon
             Console.WriteLine(casterMon.energy == -20);
         }
 
+       
 
 
 
@@ -32,5 +35,13 @@ namespace consolemon
             Console.WriteLine("TestConsoleMonFunctions");
             // Add test cases for ConsoleMon class here
         }
+        static void TestFactoryFunctions()
+        {
+            Console.WriteLine("TestFactoryFunctions");
+            ConsoleMonFactory factory = new ConsoleMonFactory();
+            factory.Load("monsterdata.txt");
+        }
+
     }
 }
+

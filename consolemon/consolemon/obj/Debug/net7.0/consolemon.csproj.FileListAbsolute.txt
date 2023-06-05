@@ -13,3 +13,4 @@ C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\conso
 C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\consolemon\consolemon\obj\Debug\net7.0\consolemon.pdb
 C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\consolemon\consolemon\obj\Debug\net7.0\consolemon.genruntimeconfig.cache
 C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\consolemon\consolemon\obj\Debug\net7.0\ref\consolemon.dll
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\consolemon\consolemon\bin\Debug\net7.0\monsterdata.txt

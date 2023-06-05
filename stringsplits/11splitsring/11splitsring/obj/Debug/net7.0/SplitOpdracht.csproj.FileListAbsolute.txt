@@ -1,0 +1,16 @@
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\stringsplits\11splitsring\11splitsring\bin\Debug\net7.0\stringsplit.txt
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\stringsplits\11splitsring\11splitsring\bin\Debug\net7.0\SplitOpdracht.exe
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\stringsplits\11splitsring\11splitsring\bin\Debug\net7.0\SplitOpdracht.deps.json
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\stringsplits\11splitsring\11splitsring\bin\Debug\net7.0\SplitOpdracht.runtimeconfig.json
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\stringsplits\11splitsring\11splitsring\bin\Debug\net7.0\SplitOpdracht.dll
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\stringsplits\11splitsring\11splitsring\bin\Debug\net7.0\SplitOpdracht.pdb
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\stringsplits\11splitsring\11splitsring\obj\Debug\net7.0\SplitOpdracht.csproj.AssemblyReference.cache
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\stringsplits\11splitsring\11splitsring\obj\Debug\net7.0\SplitOpdracht.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\stringsplits\11splitsring\11splitsring\obj\Debug\net7.0\SplitOpdracht.AssemblyInfoInputs.cache
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\stringsplits\11splitsring\11splitsring\obj\Debug\net7.0\SplitOpdracht.AssemblyInfo.cs
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\stringsplits\11splitsring\11splitsring\obj\Debug\net7.0\SplitOpdracht.csproj.CoreCompileInputs.cache
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\stringsplits\11splitsring\11splitsring\obj\Debug\net7.0\SplitOpdracht.dll
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\stringsplits\11splitsring\11splitsring\obj\Debug\net7.0\refint\SplitOpdracht.dll
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\stringsplits\11splitsring\11splitsring\obj\Debug\net7.0\SplitOpdracht.pdb
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\stringsplits\11splitsring\11splitsring\obj\Debug\net7.0\SplitOpdracht.genruntimeconfig.cache
+C:\Users\owens\Desktop\ma\bewijzenmap\schooljaar 1\periode1.4\prog\prog1.4\stringsplits\11splitsring\11splitsring\obj\Debug\net7.0\ref\SplitOpdracht.dll
